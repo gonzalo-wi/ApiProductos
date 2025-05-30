@@ -40,6 +40,7 @@ export default {
   text-align: center;
   max-width: 300px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 16px;
 }
 
 .card-producto img {

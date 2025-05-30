@@ -71,6 +71,7 @@ export default {
 </script>
 
 <style scoped>
+
 .inicio {
   padding: 20px;
 }
@@ -80,6 +81,7 @@ export default {
   flex-wrap: wrap;
   gap: 16px; 
   justify-content: center; 
+  
 }
 
 .cargando, .error {

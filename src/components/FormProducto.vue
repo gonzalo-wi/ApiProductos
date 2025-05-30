@@ -88,6 +88,8 @@ export default {
   padding: 4px;
   border: 1px solid #ddd;
   border-radius: 4px;
+  background-color: white; /* Fondo blanco */
+  color: black; /* Letras negras */
 }
 
 .form-producto textarea {
